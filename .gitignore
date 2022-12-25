@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#jupyter
-.ipynb
+# my custom gitignore
+.vscode/
